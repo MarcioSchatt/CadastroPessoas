@@ -4,7 +4,7 @@
 
 Este projeto é um gerenciador de **cadastro de pessoas** feito em Python, utilizando a biblioteca Tkinter para a interface gráfica e CSV para o armazenamento de dados. A aplicação permite cadastrar, alterar, excluir e listar pessoas, com informações como nome, endereço, telefone e e-mail. A interface permite a interação com o usuário de forma intuitiva, proporcionando um controle completo sobre os dados.
 
-## Técnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação usada para a lógica da aplicação.
 - **Tkinter**: Biblioteca gráfica padrão do Python para criar interfaces de usuário.
